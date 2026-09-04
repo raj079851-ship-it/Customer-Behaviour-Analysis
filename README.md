@@ -217,52 +217,7 @@ The segmentation provides a business-oriented view of customer value and engagem
 
 ---
 
-# 🤖 5. K-Means Customer Segmentation
-
-The project uses **K-Means clustering** to identify groups of customers with similar behavioural characteristics.
-
-### Clustering Workflow
-
-```text
-Customer-Level Features
-          ↓
-Feature Selection
-          ↓
-Feature Scaling
-          ↓
-Optimal Cluster Selection
-          ↓
-K-Means Algorithm
-          ↓
-Cluster Assignment
-          ↓
-Cluster Profiling
-          ↓
-Business Interpretation
-```
-
-The clustering process enables the identification of naturally occurring customer groups based on behavioural characteristics.
-
----
-
-# 🔍 6. Cluster Profiling & Interpretation
-
-After K-Means clustering, each cluster is analyzed to understand its unique characteristics.
-
-### Profiling Dimensions
-
-* Number of customers
-* Average spending
-* Purchase frequency
-* Recency
-* Revenue contribution
-* Overall customer behaviour
-
-The statistical clusters are translated into meaningful business personas to make the machine-learning results easier for business stakeholders to understand and act upon.
-
----
-
-# 🗄️ 7. PostgreSQL & SQL Analytics
+# 🗄️ 5. PostgreSQL & SQL Analytics
 
 The cleaned and processed data is integrated with **PostgreSQL** for structured database analysis.
 
@@ -293,9 +248,7 @@ SQL is used to perform:
 
 This stage demonstrates the ability to move beyond Python-based analysis and perform scalable database-driven analytics.
 
----
-
-# 📉 8. Customer Churn Analysis
+# 📉 Customer Churn Analysis
 
 Customer churn is analyzed using PostgreSQL and SQL to identify inactive or potentially lost customers based on the project's defined churn criteria.
 
@@ -313,7 +266,7 @@ The analysis helps identify customer groups that require targeted retention stra
 
 ---
 
-# 💼 9. Business Insights
+# 💼 Business Insights
 
 SQL-based analysis is used to translate customer and transaction data into meaningful business insights.
 
@@ -343,7 +296,7 @@ These insights provide a data-driven foundation for business decision-making.
 
 ---
 
-# 📊 10. Power BI Dashboard
+# 📊 6. Power BI Dashboard
 
 The final analytical results are transformed into an interactive **Power BI dashboard**.
 
@@ -378,13 +331,11 @@ Interactive slicers and filters allow users to explore the data dynamically.
 
 # 🖼️ Dashboard Preview
 
-The Power BI dashboard provides a consolidated business view combining **customer, revenue, order, segmentation, and churn metrics**.
-
 <img width="995" height="560" alt="Dashboard" src="https://github.com/user-attachments/assets/f8cbd8da-57d8-4816-a32a-51a378914c6d" />
 
 ---
 
-# 📑 11. Analytical Report
+# 📑 7. Analytical Report
 
 A detailed project report documents the complete analytical process.
 
@@ -411,7 +362,7 @@ The report provides a detailed explanation of the methodology, findings, and bus
 
 ---
 
-# 🎨 12. Executive Presentation
+# 🎨 8. Executive Presentation
 
 A professional presentation is developed using **Gamma** to communicate the project to business stakeholders.
 
@@ -448,9 +399,6 @@ Recommendations
       ↓
 Conclusion
 ```
-
-The presentation focuses on **data storytelling, key findings, and business impact** rather than only technical implementation.
-
 ---
 
 # 💡 Actionable Recommendations for Alfido Tech
@@ -463,7 +411,6 @@ Develop targeted campaigns based on customer segments rather than applying the s
 
 * Provide exclusive offers to high-value customers.
 * Recommend relevant products to potential customers.
-* Customize campaigns based on purchase history.
 
 **Expected impact:** Increased engagement and conversion.
 
@@ -479,7 +426,6 @@ Possible initiatives include:
 * Re-engagement campaigns
 * Limited-time offers
 * Loyalty incentives
-* Personalized recommendations
 
 **Expected impact:** Reduced churn and improved customer retention.
 
@@ -691,7 +637,3 @@ The overall solution demonstrates how **technical data analytics capabilities ca
 </p>
 
 ---
-
-# ⭐ If You Find This Project Useful
-
-If you find this project useful, feel free to ⭐ the repository and explore the complete analytics workflow.
