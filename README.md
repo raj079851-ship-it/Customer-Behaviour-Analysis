@@ -113,8 +113,7 @@ The dataset serves as the foundation for the complete analytical pipeline.
 | **Matplotlib**       | Data visualization                              |
 | **Seaborn**          | Statistical visualization                       |
 | **Scikit-learn**     | K-Means clustering                              |
-| **PostgreSQL**       | Database management and SQL analytics           |
-| **SQL**              | Churn analysis and business insights            |
+| **PostgreSQL**       | Churn analysis and business insights            |
 | **Power BI**         | Interactive business intelligence dashboard     |
 | **Excel**            | Supporting analysis and data handling           |
 | **Gamma**            | Professional presentation and storytelling      |
