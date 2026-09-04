@@ -330,7 +330,8 @@ Interactive slicers and filters allow users to explore the data dynamically.
 
 # 🖼️ Dashboard Preview
 
-<img width="995" height="560" alt="Dashboard" src="https://github.com/user-attachments/assets/f8cbd8da-57d8-4816-a32a-51a378914c6d" />
+<img width="993" height="552" alt="Dashboard" src="https://github.com/user-attachments/assets/e824283c-2936-4d41-a5c0-6ea85b5b3d88" />
+
 
 ---
 
